@@ -1,0 +1,3 @@
+[submodule "Modules/go-ethereum"]
+	path = Modules/go-ethereum
+	url = https://github.com/ethereum/go-ethereum.git
